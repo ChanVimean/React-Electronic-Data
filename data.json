@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Phantom 4 Pro",
+      "brand": "DJI",
+      "category": "Drone",
+      "description": "Professional drone with 4K camera and obstacle sensing.",
+      "quantity": 20,
+      "price": 1499.99,
+      "image": "https://gouav.co.za/cdn/shop/products/e-1-efad60ebb1a2dd8f90d8244e88fcfe59_54ecbc36-22e0-4bb3-b3ad-536ad71b2c72_1024x1024.png?v=1613377790"
+    },
+    {
+      "id": 2,
+      "productName": "MacBook Pro 14",
+      "brand": "Apple",
+      "category": "Laptop",
+      "description": "High-performance laptop with M3 Pro chip.",
+      "quantity": 15,
+      "price": 1999.99,
+      "image": "https://external-preview.redd.it/u0QOuZKn3omvgiIQRdvtVYsalirPwd1wrx99N5-TV1w.jpg?auto=webp&s=8b24dd44392a3f0be8f8878ef225ccf6a0ff06c9"
+    },
+    {
+      "id": 3,
+      "productName": "Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "category": "Smartphone",
+      "description": "Flagship smartphone with 200MP camera and S Pen support.",
+      "quantity": 50,
+      "price": 1299.99,
+      "image": "https://img.bgo.one/news-image/202412291823_samsung-s25-ultra-camera-specs-leak_1.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "iPhone 16 Pro Max",
+      "brand": "Apple",
+      "category": "Smartphone",
+      "description": "Premium smartphone with A18 Bionic chip and ProMotion display.",
+      "quantity": 40,
+      "price": 1399.99,
+      "image": "https://alephksa.com/cdn/shop/files/iPhone_16_Pro_Max_Natural_Titanium_PDP_Image_Position_1__en-ME_a46d3e5e-dad7-4584-9581-342342e640bc.jpg?v=1750067799"
+    },
+    {
+      "id": 5,
+      "productName": "Surface Laptop 6",
+      "brand": "Microsoft",
+      "category": "Laptop",
+      "description": "Slim laptop with touchscreen and long battery life.",
+      "quantity": 25,
+      "price": 1599.99,
+      "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Surface-Laptop-6-Sneak-Curosel-Pivot-3?scl=1"
+    },
+    {
+      "id": 6,
+      "productName": "AirPods Pro 3",
+      "brand": "Apple",
+      "category": "Earbuds",
+      "description": "Wireless earbuds with adaptive noise cancellation.",
+      "quantity": 100,
+      "price": 299.99,
+      "image": "https://sm.mashable.com/mashable_sea/article/a/apple-airp/apple-airpods-pro-3-every-single-thing-we-know-so-far_uj6k.jpg"
+    },
+    {
+      "id": 7,
+      "productName": "Pixel Watch 3",
+      "brand": "Google",
+      "category": "Smartwatch",
+      "description": "Smartwatch with WearOS, fitness tracking, and Google Assistant.",
+      "quantity": 30,
+      "price": 349.99,
+      "image": "https://m.media-amazon.com/images/I/613QjmXvH-L.jpg"
+    },
+    {
+      "id": 8,
+      "productName": "PlayStation 6",
+      "brand": "Sony",
+      "category": "Gaming Console",
+      "description": "Next-generation gaming console with 8K support.",
+      "quantity": 60,
+      "price": 599.99,
+      "image": "https://preview.redd.it/i-own-the-playstation-6-heres-picture-for-proof-v0-cvz6ugr1yufd1.jpeg?auto=webp&s=01049aa920501c8bf593015f3ae40f3b918b45ff"
+    },
+    {
+      "id": 9,
+      "productName": "ROG Strix G18",
+      "brand": "ASUS",
+      "category": "Laptop",
+      "description": "Gaming laptop with RTX 5090 GPU and 18-inch display.",
+      "quantity": 18,
+      "price": 2499.99,
+      "image": "https://cdn.mos.cms.futurecdn.net/bVNHyguneZLeLhFRoi9DKJ.jpg"
+    },
+    {
+      "id": 10,
+      "productName": "Mavic Air 3",
+      "brand": "DJI",
+      "category": "Drone",
+      "description": "Compact drone with 8K video recording and intelligent flight modes.",
+      "quantity": 22,
+      "price": 999.99,
+      "image": "https://media.wired.com/photos/65fdfc40f9ff6cdb8f90f943/master/w_1280%2Cc_limit/DJI-Air-3-Offwhite-Background-SOURCE-DJI.jpg"
+    },
+    {
+      "id": 11,
+      "productName": "Echo Show 15",
+      "brand": "Amazon",
+      "category": "Smart Display",
+      "description": "Smart display with Alexa, 15.6-inch screen, and home control.",
+      "quantity": 45,
+      "price": 249.99,
+      "image": "https://m.media-amazon.com/images/G/01/kindle/journeys/D2Bb6cb9mxXTE2W2ArbpVWqLk0jtk108AKm1Ui7Ls0Y83D/MjBjNTljZTQt._CB541449477_.png"
+    },
+    {
+      "id": 12,
+      "productName": "Galaxy Buds 3 Pro",
+      "brand": "Samsung",
+      "category": "Earbuds",
+      "description": "True wireless earbuds with hi-fi sound and ANC.",
+      "quantity": 75,
+      "price": 229.99,
+      "image": "https://www.gadgetcraze.ug/web/image/product.template/1007/image_1024?unique=f56bdfd"
+    },
+    {
+      "id": 13,
+      "productName": "Kindle Oasis 2025",
+      "brand": "Amazon",
+      "category": "E-Reader",
+      "description": "Premium e-reader with 7-inch display and adjustable warm light.",
+      "quantity": 35,
+      "price": 299.99,
+      "image": "https://helios-i.mashable.com/imagery/roundup-products/07blIDnkp4PBXeknp592boz/product-image.fill.size_1200x900.v1730223218.png"
+    },
+    {
+      "id": 14,
+      "productName": "GoPro Hero 13 Black",
+      "brand": "GoPro",
+      "category": "Action Camera",
+      "description": "Durable 5K action camera with advanced stabilization.",
+      "quantity": 28,
+      "price": 449.99,
+      "image": "https://www.cnet.com/a/img/resize/f9b8ad590f07d8400053159c678579f529c3d11a/hub/2024/09/04/dacb6e22-c009-421a-be1e-50c7dbbe7d73/gopro-hero-13-black-06.jpg?auto=webp&width=1200"
+    },
+    {
+      "id": 15,
+      "productName": "Oculus Quest 4",
+      "brand": "Meta",
+      "category": "VR Headset",
+      "description": "Standalone VR headset with improved resolution and hand tracking.",
+      "quantity": 26,
+      "price": 599.99,
+      "image": "https://helios-i.mashable.com/imagery/longforms/07vvxbSxD15c5bEK5u2XLwt/images-2.fit_lim.size_1400x.v1697207965.jpg"
+    }
+  ]
+}
