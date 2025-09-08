@@ -93,7 +93,7 @@ function ProductList({ products }) {
 
 <br>
 
-## [!NOTE] 🔹 Notes
+## [!note] 🔹 Notes
 
 - "image" is currently an empty string. Replace with real image URLs or use a default placeholder in the frontend.
 
